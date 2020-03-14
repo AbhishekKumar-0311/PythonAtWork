@@ -7,7 +7,8 @@ Python Keywords and Identifiers
 	Python Keywords
 	
 		Keywords are the reserved words in Python.
-		We cannot use a keyword as a variable name, function name or any other identifier. They are used to define the syntax and structure of the Python language.
+		We cannot use a keyword as a variable name, function name or any other identifier.
+		They are used to define the syntax and structure of the Python language.
 		In Python, keywords are case sensitive.		
 		All the keywords except True, False and None are in lowercase and they must be written as it is.
 		
@@ -22,10 +23,12 @@ Python Keywords and Identifiers
 		
 	Python Identifiers
 	
-		An identifier is a name given to entities like class, functions, variables, etc. It helps to differentiate one entity from another.
+		An identifier is a name given to entities like class, functions, variables, etc. It helps to differentiate 
+		one entity from another.
 		
 		Rules for writing identifiers
-		Identifiers can be a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) or an underscore _. Names like myClass, var_1 and print_this_to_screen, all are valid example.
+		Identifiers can be a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) 
+		or an underscore _. Names like myClass, var_1 and print_this_to_screen, all are valid example.
 		An identifier cannot start with a digit. 1variable is invalid, but variable1 is perfectly fine.
 		Keywords cannot be used as identifiers.
 		
