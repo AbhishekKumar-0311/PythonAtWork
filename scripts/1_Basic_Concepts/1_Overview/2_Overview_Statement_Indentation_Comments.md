@@ -43,12 +43,11 @@ Python Statement, Indentation and Comments
         Python uses indentation.
 
         A code block (body of a function, loop etc.) starts with indentation and ends with the first unindented line.
-        The amount of indentation is up to you, but it must be consistent throughout that block.
+        The amount of indentation is individual-centric, but it must be consistent throughout that block.
 
         Generally four whitespaces are used for indentation and is preferred over tabs.
 
-
-        Indentation can be ignored in line continuation. But it's a good idea to always indent. It makes the code more readable.
+        Indentation can be ignored in line continuation. Good to always indent. It makes the code more readable.
             For example:
 
                 if True:
@@ -92,13 +91,14 @@ Python Statement, Indentation and Comments
                     perfect example of
                     multi-line comments"""
 
-    Docstring in Python
-        Docstring is short for documentation string.
+        Docstring in Python
+            Docstring is short for documentation string.
 
-        It is a string that occurs as the first statement in a module, function, class, or method definition.
-        We must write what a function/class does in the docstring.
+            It is a string that occurs as the first statement in a module, function, class, or method definition.
+            We must write what a function/class does in the docstring.
 
-        Triple quotes are used while writing docstrings.
-        Docstring is available to us as the attribute __doc__ of the function.
+            Triple quotes are used while writing docstrings.
+            Docstring is available as the attribute __doc__ of the function.
 
-            >>> print(double.__doc__)
+                >>> print(double.__doc__)
+                Here double is the user-defined function.
