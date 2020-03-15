@@ -1,2 +1,8 @@
-# PythonAtWork
-Python scripts from Basic to Advance | WiP...
+# Python Basics
+
+Python scripts Basic
+
+    1. Overview
+    2. Flow Control
+    3. Functions
+    4. Data Structures
