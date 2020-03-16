@@ -1,4 +1,4 @@
-# Python Overview
+# Python File Handling
 
 Python File I/O
 
@@ -180,7 +180,7 @@ Python File I/O
 
         Python File Methods
 
-            - Method                Description
+            Method                Description
             close()             Close an open file. It has no effect if the file is already closed.
             detach()            Separate the underlying binary buffer from the TextIOBase and return it.
             fileno()            Return an integer number (file descriptor) of the file.
