@@ -138,7 +138,7 @@
         re.search()
 
             The re.search() method takes two arguments: a pattern and a string.
-			The method looks for the first location where the RegEx pattern produces a match with the string.
+            The method looks for the first location where the RegEx pattern produces a match with the string.
 
             If the search is successful, re.search() RETURNS A MATCH OBJECT; if not, it returns None.
 
@@ -213,7 +213,7 @@
                     >>> match.end()
                     8
 
-                    The span() function returns a tuple containing start and end index of the matched part.
+                    The span() function RETURNS A TUPLE CONTAINING START AND END INDEX of the matched part.
 
                     >>> match.span()
                     (2, 8)
